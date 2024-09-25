@@ -1,16 +1,26 @@
-## Hi there 👋
+Developer!!
+I’m driven by the art of finding simplicity within complexity. My journey through blockchain architecture and decentralized governance allows me to build systems where security and scalability align naturally. I’m always fascinated by how code evolves and reshapes the way we solve real-world problems.
 
-<!--
-**officialnyabuto/officialnyabuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Current Focus
+Scaling blockchain applications with advanced governance models.
+Enhancing ecommerce dynamics, integrating the fluidity of modern APIs with user interfaces.
 
-Here are some ideas to get you started:
+💡 Projects
+clearfund: A ledger of influence and intent, where actions speak in tokens and transparency is not an option but a rule. For those who know, it keeps things balanced.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+Languages: TypeScript, Python, JavaScript
+Frameworks & Libraries: Next.js, React, Flask, Tailwind CSS
+Blockchain: Smart Contracts, IPFS, Tokenization, DAO Governance
+Databases: PostgreSQL
+Cloud & DevOps: Docker, GitHub Actions, CI/CD
+APIs & Integrations: M-Pesa API, Pesapal, IPFS
+
+📈 GitHub Stats
+!(https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+🖥️ Top Languages
+!(https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+📫 Contact
+![LinkedIn](https://www.linkedin.com/in/ronny-nyabuto-256ba2177)
