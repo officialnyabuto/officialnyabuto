@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-I’m driven by the art of finding simplicity within complexity. My journey through blockchain architecture and decentralized governance allows me to build systems where security and scalability align naturally. I’m always fascinated by how code evolves and reshapes the way we solve real-world problems.
+I find simplicity within complexity as I explore blockchain architecture and decentralized governance, building systems where security and scalability align seamlessly. I am fascinated by how code evolves and reshapes our approach to solving real-world problems.
 
 * 🌍  I'm based in Kenya
 * 🚀  I'm currently working on [ClearFund](http://github.com/officialnyabuto/clearfund)
