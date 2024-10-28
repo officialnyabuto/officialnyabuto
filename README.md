@@ -6,7 +6,7 @@ Developer
 
 I find simplicity within complexity as I explore blockchain architecture and decentralized governance, building systems where security and scalability align seamlessly. I am fascinated by how code evolves and reshapes our approach to solving real-world problems.
 
-* 🚀  I'm currently working on [LinkdFund](http://github.com/officialnyabuto/LinkdFund)
+* 🚀  I'm currently working on [Linkd-Fund](http://github.com/officialnyabuto/Linkd-Fund)
 * 🧠  I'm learning advanced TypeScript and its frameworks while exploring Layer 2 solutions and optimizing API integrations for enhanced blockchain and e-commerce experiences.
 
 ### Skills
