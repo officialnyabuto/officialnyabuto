@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nyabuto
 ===============================================================================================================================
 
-Developer
+Dev
 ---------
 
-I’m Ronny Nyabuto, a full-stack dev with a passion for leveraging technology to create meaningful change. I also explore the potential of blockchain technologies like Solidity, Ethereum, and Polygon to bring transparency and accountability to projects like LinkdFund. I like build innovative solutions that drive both social impact and business growth.
+I’m a full-stack dev with a passion for leveraging technology to create meaningful change. I also explore the potential of blockchain technologies like Solidity, Ethereum, and Polygon to bring transparency and accountability to projects like LinkdFund. I like build innovative solutions that drive both social impact and business growth.
 
 * 🚀  I'm currently working on [Linkd-Fund](http://github.com/officialnyabuto/Linkd-Fund)
 * 🧠  I'm learning advanced TypeScript and its frameworks while exploring Layer 2 solutions and optimizing API integrations for enhanced blockchain and e-commerce experiences.
